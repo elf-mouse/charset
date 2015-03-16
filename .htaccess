@@ -1,0 +1,2 @@
+# In Apache server config or .htaccess, this will cause the HTTP header to be generated for text/html and text/plain content:
+AddDefaultCharset UTF-8
